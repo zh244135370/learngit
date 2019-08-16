@@ -1,2 +1,2 @@
 i am test 2
-branch is quick
+branch is quick AND test
